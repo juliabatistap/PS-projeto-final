@@ -1,0 +1,6 @@
+com\example\pages\BasePage.class
+com\example\pages\ProductPage.class
+com\example\pages\HomePage.class
+com\example\pages\MonitorsPage.class
+com\example\pages\CartPage.class
+com\example\pages\CheckoutPage.class

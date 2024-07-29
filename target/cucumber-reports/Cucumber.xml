@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.259">
+    <testcase classname="Fluxo Completo de Compra" name="Comprar um monitor" time="12.722">
+        <system-out><![CDATA[Given que o usuario esta na homepage........................................passed
+When entra no menu de monitores.............................................passed
+And o usuario seleciona um dos monitores....................................passed
+And o usuario adiciona o monitor ao carrinho................................passed
+And o usuario acessa a pagina do carrinho...................................passed
+And clica em "place order" pra finalizar a compra...........................passed
+And o usuario informa os dados "julia batista", "brasil", "porto alegre", "5454545456565656", "03", e "30".passed
+And o usuario completa a compra.............................................passed
+Then a compra deve ser bem sucedida.........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

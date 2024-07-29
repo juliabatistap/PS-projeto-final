@@ -1,0 +1,4 @@
+com\example\tests\RunCucumberTest.class
+com\example\tests\ExtentManager.class
+com\example\tests\StepDefinitions.class
+com\example\tests\FluxoCompletoTest.class
